@@ -4,12 +4,19 @@ IT Support Ticket Analysis
 The IT Support Ticket Analysis Dashboard is an interactive Power BI dashboard designed to analyze IT support ticket data and monitor key service desk performance metrics. It helps organizations track ticket volume, resolution efficiency, SLA compliance, customer satisfaction, and agent performance, enabling data-driven decision-making to improve IT support operations.
 
 🎯 Objectives
+
 Monitor overall IT support performance.
+
 Track ticket status and resolution progress.
+
 Identify departments with the highest ticket volume.
+
 Analyze SLA compliance across departments.
+
 Measure customer satisfaction.
+
 Evaluate support agent performance.
+
 Monitor ticket priority distribution and resolution trends.
 
 
