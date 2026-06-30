@@ -11,6 +11,8 @@ Analyze SLA compliance across departments.
 Measure customer satisfaction.
 Evaluate support agent performance.
 Monitor ticket priority distribution and resolution trends.
+
+
 📊 Dashboard Features
 Total Tickets: 146K
 Open Tickets: 22K
@@ -31,6 +33,8 @@ Department
 Status
 Category
 Priority
+
+
 🔍 Key Insights
 Technical Support received the highest number of support tickets.
 More than half of all tickets have been successfully resolved.
@@ -45,16 +49,17 @@ Power Query
 DAX
 Data Modeling
 Microsoft Excel (Data Source)
+
+
 📈 Business Value
-
 This dashboard enables IT managers to:
-
 Monitor service desk performance in real time.
 Improve SLA compliance.
 Optimize resource allocation.
 Reduce ticket resolution time.
 Enhance customer satisfaction.
 Make informed operational decisions.
+
 🚀 Skills Demonstrated
 Data Cleaning
 Data Modeling
